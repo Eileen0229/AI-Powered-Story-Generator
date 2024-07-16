@@ -1,23 +1,27 @@
 
 # AI-powered Storybook generator
-By selecting a theme and background from the choice box and adding a simple description of your story expectations, you can create a personalized storybook. Your selections will be used to generate a unique story that fits your preferences.
+The Storybook Generation System allows users to create personalized storybooks by selecting themes and backgrounds, and providing a simple description of their story expectations. The system then generates a unique story that fits the provided preferences, complete with a beautifully designed cover.
+## Demo
 
-Once you provide the details:
+https://eileen-storybook-generator.streamlit.app/
+## Documentation
 
-- Theme and Background: Choose from a variety of themes and backgrounds to set the stage for your story. Whether you prefer a whimsical fantasy land, a bustling cityscape, or a tranquil countryside, there's a backdrop that will perfectly complement your narrative.
-- Story Description: Describe what you want the story to be about. You can include details like the main characters, the plot, and any specific events or messages you want the story to convey. The more details you provide, the more tailored your story will be.
-After inputting your choices and description, the system will generate a complete storybook. This includes:
-
-- A Storybook Cover: A beautifully designed cover that matches the theme and background you selected. This cover will make your storybook visually appealing and ready for sharing.
-- The Story: A well-crafted narrative that aligns with your description and selected theme. The story will be engaging and appropriate for the intended audience.
-Enjoy the process of creating a unique storybook that you or your loved ones can cherish for years to come.
-
-Feel free to adjust any details or add more specific information about the themes, backgrounds, or story elements that are available.
+[Documentation](https://linktodocumentation)
 
 
-## Authors
+## Features
 
-- [@Eileen0229](https://github.com/Eileen0229)
+- **Theme and Background Selection:** Users can choose from a variety of themes and backgrounds to set the stage for their story.
+- **Custom Story Description:** Users can provide details about the main characters, plot, and specific events or messages they want in their story.
+- **Automated Story Generation:** The system generates a complete story based on the user's inputs.
+- **Storybook Cover:** A visually appealing cover that matches the selected theme and background is included with the generated storybook.
+
+## Usage/Examples
+### Input to textfield
+```csharp
+A brave little mouse named Max sets out on an adventure to find a hidden treasure in the Enchanted Forest. Along the way, he meets various magical creatures who help him on his journey. Max learns valuable lessons about courage and friendship.
+
+```
 
 
 ## Badges
@@ -29,6 +33,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
 
-## Demo
+## Authors
 
-https://eileen-storybook-generator.streamlit.app/
+- [@Eileen0229](https://github.com/Eileen0229)
+
